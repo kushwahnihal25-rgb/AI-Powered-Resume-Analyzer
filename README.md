@@ -1,39 +1,53 @@
-# AI-Powered-Resume-Analyzer
-AI-powered Resume Analyzer using Streamlit, NLP and Gemini AI
-# AI Resume Analyzer
+# 📄 AI-Powered Resume Analyzer
 
-An AI-powered Resume Analyzer built using Python, Streamlit, NLP and Google Gemini AI.
+An AI-powered Resume Analyzer that compares resumes with job descriptions and provides ATS scores, skill-gap analysis, and AI-generated improvement suggestions.
 
-## Features
+## 🚀 Features
 
-* Resume PDF Upload
-* ATS Score Calculation
-* Skill Gap Analysis
-* Missing Skills Detection
-* Interactive Pie Chart
-* Gemini AI Feedback
-* Download AI Report
+✅ Resume PDF Upload
 
-## Tech Stack
+✅ ATS Score Calculation
 
-* Python
-* Streamlit
-* Plotly
-* PDFPlumber
-* SpaCy
-* Google Gemini API
+✅ Skill Extraction
 
-## How to Run
+✅ Missing Skill Detection
+
+✅ Job Description Matching
+
+✅ AI Resume Feedback using Gemini AI
+
+✅ Interactive Charts & Visualizations
+
+✅ Downloadable AI Report
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Streamlit
+- Google Gemini AI
+- Plotly
+- PDFPlumber
+- NLP
+
+---
+
+## 📷 Screenshots
+
+### Dashboard
+
+(Add Screenshot Here)
+
+### AI Feedback
+
+(Add Screenshot Here)
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
 
 ```bash
-pip install -r requirements.txt
-python -m streamlit run app.py
-```
-
-## Future Improvements
-
-* Multi Resume Comparison
-* Resume Builder
-* Job Recommendation System
-* Dashboard Analytics
-
+git clone https://github.com/kushwahnihal25-rgb/AI-Powered-Resume-Analyzer.git
